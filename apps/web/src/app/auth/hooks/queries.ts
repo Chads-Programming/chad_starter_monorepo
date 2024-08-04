@@ -1,5 +1,5 @@
 import { ENVS } from '@/config/envs'
-import type { User } from '@repo/shared-const-types'
+import type { User } from '@repo/shared-types'
 import { useQuery } from 'react-query'
 import useAuthFetch from './use-auth-fetch'
 
