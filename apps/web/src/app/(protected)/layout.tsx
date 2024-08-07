@@ -1,6 +1,3 @@
-'use client'
-
-import { withAuth } from '@/auth/components/with-auth.tsx'
 import type React from 'react'
 
 const Layout = ({
@@ -15,4 +12,4 @@ const Layout = ({
 	)
 }
 
-export default withAuth(Layout)
+export default Layout

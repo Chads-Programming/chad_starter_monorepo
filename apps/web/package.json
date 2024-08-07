@@ -24,6 +24,7 @@
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.7.3",
+		"@iconify/react": "^5.0.2",
 		"@next/eslint-plugin-next": "^14.0.4",
 		"@repo/eslint-config": "workspace:*",
 		"@repo/tailwind-config": "workspace:^",
